@@ -1,1 +1,2 @@
-# excel-challenge1 and word document  
+# excel-challenge and word document
+click on sheets to see the solutions.
